@@ -1,0 +1,225 @@
+Number: 1
+Stock Symbol: AHT.L
+Company Name: Ashtead Group plc
+Highest: 1679.0 on Thu Jan 26 00:00:00 GMT 2017
+Lowest: 1643.0 on Thu Jan 26 00:00:00 GMT 2017
+Average Close: 1569.2923076923078
+Close: 1644.0
+
+Number: 2
+Stock Symbol: ANTO.L
+Company Name: Antofagasta plc
+Highest: 884.5 on Wed Jan 25 00:00:00 GMT 2017
+Lowest: 840.5 on Fri Feb 10 00:00:00 GMT 2017
+Average Close: 733.6538461538462
+Close: 866.0
+
+Number: 3
+Stock Symbol: BA.L
+Company Name: BAE Systems plc
+Highest: 619.0 on Thu Jan 12 00:00:00 GMT 2017
+Lowest: 608.0 on Wed Jan 11 00:00:00 GMT 2017
+Average Close: 597.4538461538461
+Close: 612.0
+
+Number: 4
+Stock Symbol: BATS.L
+Company Name: British American Tobacco plc
+Highest: 5078.0 on Fri Feb 10 00:00:00 GMT 2017
+Lowest: 4990.65 on Fri Feb 10 00:00:00 GMT 2017
+Average Close: 4599.515384615384
+Close: 5008.0
+
+Number: 5
+Stock Symbol: CCH.L
+Company Name: Coca-Cola HBC AG
+Highest: 1836.0 on Thu Feb 09 00:00:00 GMT 2017
+Lowest: 1816.78 on Thu Feb 09 00:00:00 GMT 2017
+Average Close: 1732.2615384615385
+Close: 1826.0
+
+Number: 6
+Stock Symbol: CCL.L
+Company Name: Carnival plc
+Highest: 4411.0 on Thu Jan 26 00:00:00 GMT 2017
+Lowest: 4312.0 on Fri Jan 27 00:00:00 GMT 2017
+Average Close: 4146.584615384615
+Close: 4336.0
+
+Number: 7
+Stock Symbol: CAN.L
+Company Name: Centrica plc
+Highest: 236.9 on Tue Jan 03 00:00:00 GMT 2017
+Lowest: 234.1 on Mon Jan 02 00:00:00 GMT 2017
+Average Close: 221.77384615384616
+Close: 234.0
+
+Number: 8
+Stock Symbol: CPG.L
+Company Name: Compass Group plc
+Highest: 1523.0 on Tue Jan 03 00:00:00 GMT 2017
+Lowest: 1501.0 on Mon Jan 02 00:00:00 GMT 2017
+Average Close: 1412.2615384615385
+Close: 1445.0
+
+Number: 9
+Stock Symbol: EXPN.L
+Company Name: Experian plc
+Highest: 1618.0 on Mon Jan 16 00:00:00 GMT 2017
+Lowest: 1592.01 on Fri Jan 13 00:00:00 GMT 2017
+Average Close: 1525.6307692307691
+Close: 1565.0
+
+Number: 10
+Stock Symbol: EZJ.L
+Company Name: EasyJet plc
+Highest: 1110.0 on Wed Nov 16 00:00:00 GMT 2016
+Lowest: 1069.81 on Fri Nov 18 00:00:00 GMT 2016
+Average Close: 1011.5769230769231
+Close: 947.5
+
+Number: 11
+Stock Symbol: GKN.L
+Company Name: GKN plc
+Highest: 353.225 on Wed Jan 25 00:00:00 GMT 2017
+Lowest: 347.25 on Wed Jan 25 00:00:00 GMT 2017
+Average Close: 327.9138461538461
+Close: 340.9
+
+Number: 12
+Stock Symbol: MDC.L
+Company Name: Mediclinic Internation plc
+Highest: 840.5 on Fri Feb 10 00:00:00 GMT 2017
+Lowest: 824.52 on Fri Feb 10 00:00:00 GMT 2017
+Average Close: 760.6538461538462
+Close: 835.5
+
+Number: 13
+Stock Symbol: PFG.L
+Company Name: Provident Financial plc
+Highest: 3010.0 on Thu Nov 24 00:00:00 GMT 2016
+Lowest: 2970.0 on Thu Nov 24 00:00:00 GMT 2016
+Average Close: 2812.476923076923
+Close: 2779.0
+
+Number: 14
+Stock Symbol: PPB.L
+Company Name: Paddy Power Betfair plc
+Highest: 8935.0 on Tue Jan 10 00:00:00 GMT 2017
+Lowest: 8785.0 on Fri Jan 06 00:00:00 GMT 2017
+Average Close: 8540.923076923076
+Close: 8700.0
+
+Number: 15
+Stock Symbol: PRU.L
+Company Name: Prudential plc
+Highest: 1649.0 on Wed Dec 07 00:00:00 GMT 2016
+Lowest: 1628.5 on Wed Jan 04 00:00:00 GMT 2017
+Average Close: 1576.6538461538462
+Close: 1620.5
+
+Number: 16
+Stock Symbol: PSN.L
+Company Name: Persimmon plc
+Highest: 2036.0 on Wed Feb 08 00:00:00 GMT 2017
+Lowest: 1978.0 on Wed Jan 11 00:00:00 GMT 2017
+Average Close: 1825.3846153846155
+Close: 1976.0
+
+Number: 17
+Stock Symbol: RB.L
+Company Name: Reckitt Benckiser Group plc
+Highest: 7381.0 on Fri Feb 10 00:00:00 GMT 2017
+Lowest: 7210.41 on Thu Feb 09 00:00:00 GMT 2017
+Average Close: 6811.4
+Close: 7025.0
+
+Number: 18
+Stock Symbol: RDSA.L
+Company Name: Royal Dutch Shell plc
+Highest: 5078.0 on Fri Feb 10 00:00:00 GMT 2017
+Lowest: 4990.65 on Fri Feb 10 00:00:00 GMT 2017
+Average Close: 4599.515384615384
+Close: 5008.0
+
+Number: 19
+Stock Symbol: RR.L
+Company Name: Rolls-Royce Holdings plc
+Highest: 779.5 on Wed Nov 16 00:00:00 GMT 2016
+Lowest: 741.5 on Mon Nov 14 00:00:00 GMT 2016
+Average Close: 679.276923076923
+Close: 732.5
+
+Number: 20
+Stock Symbol: SDR.L
+Company Name: Schroders plc
+Highest: 3073.0 on Wed Jan 18 00:00:00 GMT 2017
+Lowest: 3026.0 on Fri Feb 10 00:00:00 GMT 2017
+Average Close: 2942.507692307692
+Close: 3041.0
+
+Number: 21
+Stock Symbol: SHP.L
+Company Name: Shire plc
+Highest: 5107.0 on Mon Nov 14 00:00:00 GMT 2016
+Lowest: 4932.5 on Mon Nov 14 00:00:00 GMT 2016
+Average Close: 4586.8
+Close: 4595.0
+
+Number: 22
+Stock Symbol: SKY.L
+Company Name: Sky plc
+Highest: 1050.0 on Fri Dec 09 00:00:00 GMT 2016
+Lowest: 1006.0 on Tue Feb 07 00:00:00 GMT 2017
+Average Close: 928.9
+Close: 1000.0
+
+Number: 23
+Stock Symbol: SSE.L
+Company Name:  SSE plc
+Highest: 1578.0 on Tue Jan 03 00:00:00 GMT 2017
+Lowest: 1554.0 on Mon Dec 26 00:00:00 GMT 2016
+Average Close: 1507.7846153846153
+Close: 1537.0
+
+Number: 24
+Stock Symbol: STJ.L
+Company Name: St. James's Place plc
+Highest: 1126.44 on Thu Jan 26 00:00:00 GMT 2017
+Lowest: 1078.0 on Fri Feb 10 00:00:00 GMT 2017
+Average Close: 1013.6153846153846
+Close: 1083.0
+
+Number: 25
+Stock Symbol: TSCO.L
+Company Name: Tesco plc
+Highest: 219.4 on Fri Dec 09 00:00:00 GMT 2016
+Lowest: 213.3 on Tue Nov 22 00:00:00 GMT 2016
+Average Close: 204.8315384615384
+Close: 198.0
+
+Number: 26
+Stock Symbol: TUI.L
+Company Name: TUI AG
+Highest: 1199.64 on Wed Feb 08 00:00:00 GMT 2017
+Lowest: 1178.0 on Tue Jan 10 00:00:00 GMT 2017
+Average Close: 1113.6
+Close: 1158.0
+
+Number: 27
+Stock Symbol: VOD.L
+Company Name: Vodafone Group plc
+Highest: 215.694 on Fri Jan 13 00:00:00 GMT 2017
+Lowest: 212.088 on Fri Jan 13 00:00:00 GMT 2017
+Average Close: 200.33307692307702
+Close: 197.7
+
+Number: 28
+Stock Symbol: WPG.L
+Company Name: Worldpay Group plc
+Highest: 292.6 on Fri Jan 13 00:00:00 GMT 2017
+Lowest: 288.8 on Fri Jan 13 00:00:00 GMT 2017
+Average Close: 273.78923076923076
+Close: 272.0
+
+
